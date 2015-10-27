@@ -8,4 +8,5 @@ Practice examples from:
 sbt
 fullOptJS
 ```
-2. Open this [link](http://localhost:63342/scalajs-examples/target/scala-2.11/classes/basic-canvas.html) in browser
+2. View [basic stratchpad](http://localhost:12345/target/scala-2.11/classes/basic-canvas.html)
+3. View [clock on canvas](http://localhost:12345/target/scala-2.11/classes/clock-on-canvas.html)
